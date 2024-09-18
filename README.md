@@ -1,5 +1,5 @@
 # Fast-Tutorial-Github
-Suporte para uso do git hub. 
+Suporte para uso do git hub.
 ##Comandos básicos
 
 **git clone** : Esse comando irá gerar uma "cópia" do repositório na maquina. 
