@@ -15,7 +15,7 @@ Suporte para uso do git hub.
 **git push"** : Esse comando irá atualizar o repositório da nuvem(remoto) baseado no repositório local(clone). Na pratica, ele irá upar arquivos, atualizações e etc. ele é o processo final.
 
 
-**git log"** : Esse comando irá gerar um histrico de alterações feitas no repositório, gerando até mesmo numeros de commit, que se usadas no git reset pode ser possivel reverter alterações.
+**git log"** : Esse comando irá gerar um histórico de alterações feitas no repositório, gerando até mesmo numeros de commit, que se usadas no git reset pode ser possivel reverter alterações.
 **git reset"** : Esse comando irá "voltar" o repositório para a commit especificada.
 
 **git config --global user.name "Nome(referencia do nome da pessoa)"** : Esse comando irá "indentificar" o user que está "alterando".
